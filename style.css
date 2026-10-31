@@ -1,0 +1,47 @@
+
+/* 整个网页 */
+body {
+    margin: 0px;
+    font-family: Arial, sans-serif;
+    background-color: #f3f6fc;
+    color: #1e293b;
+    line-height: 1.6;
+}
+
+/* 网页主体容器 */
+.container {
+    max-width: 720px;
+    margin: 60px auto;
+    padding: 0 20px;
+}
+
+/* 一级标题 */
+h1 {
+    color: #2563eb;
+    font-size: 36px;
+}
+
+/* 副标题 */
+.subtitle {
+    color: #64748b;
+    font-size: 16px;
+}
+
+/* 卡片 */
+.card {
+    background-color: white;
+    padding: 24px 24px 10px 24px;
+    margin-top: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* 卡片标题 */
+h2 {
+    margin-top: 0;
+}
+
+/* 列表项目 */
+li {
+    margin-bottom: 8px;
+}
